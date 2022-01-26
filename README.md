@@ -15,9 +15,9 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 -->
-Hygieia Starter Kit.
+Hygieia.
 ===============================
-This Kit is a single image that contains the UI, API, Mongo, Github Collector, Sonar Collector, and Jenkins Collector. All of this can be configured with just a few commands. Note: This setup will take place of the manual steps for setup currently listed in the Hygieia documentation.
+This packet is a single image that contains the UI, API, Mongo, bitbucket Collector, Nexus Collector, Sonar Collector, and Jenkins Collector. All of this can be configured with just a few commands. Note: This setup will take place of the manual steps for setup currently listed in the Hygieia documentation.
 
 ### Prerequisites
 The following are the prerequisites for setup:
